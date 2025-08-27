@@ -26,7 +26,7 @@ model-index:
     - name: Wer
       type: wer
       value: 26.85
-
+```
 # 🎙️ Whisper LargeV3 Persian - Persian ASR  
 
 Fine-tuned version of [openai/whisper-large-v3](https://huggingface.co/openai/whisper-large-v3)  
