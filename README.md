@@ -1,4 +1,4 @@
----
+```yaml
 library_name: transformers
 language:
 - fa
@@ -26,7 +26,6 @@ model-index:
     - name: Wer
       type: wer
       value: 26.85
----
 
 # 🎙️ Whisper LargeV3 Persian - Persian ASR  
 
