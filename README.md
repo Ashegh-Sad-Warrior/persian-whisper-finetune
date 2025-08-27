@@ -139,6 +139,14 @@ providing strong transcription performance in real-world noisy conditions.
 
 ---
 
+📬 Contact
+
+📧 Email: halakoo.mohammadreza@gmail.com
+
+🤗 HuggingFace: [MohammadReza Halakoo](https://huggingface.co/MohammadReza-Halakoo)
+
+💼 LinkedIn: [MohammadReza Halakoo](https://www.linkedin.com/in/mohammadreza-halakoo)
+
 ## 📦 Installation
 ```bash
 pip install torch torchaudio transformers datasets accelerate jiwer librosa evaluate soundfile
