@@ -27,12 +27,18 @@ model-index:
       type: wer
       value: 26.85
 ```
-# 🎙️ Whisper LargeV3 Persian - Persian ASR  
-
-Fine-tuned version of [openai/whisper-large-v3](https://huggingface.co/openai/whisper-large-v3)  
-for **Persian Automatic Speech Recognition (ASR)** using Common Voice 17.0.  
+# 🎯 TL;DR
+Fine-tuned Whisper Large V3 for Persian Automatic Speech Recognition (ASR)
+📊 Trained on ~370K noisy Persian samples (Common Voice 17.0)
+📉 Reduced WER from 34.6% → 26.85% after 7 epochs on NVIDIA H100
 
 👉 [View Model on HuggingFace](https://huggingface.co/MohammadReza-Halakoo/1-persian-whisper-large-v3-train-validation-tested-100-percent-17-0-7-epoch)
+
+# 🎙️ Whisper LargeV3 Persian - Persian ASR  
+
+This is a fine-tuned version of [openai/whisper-large-v3](https://huggingface.co/openai/whisper-large-v3)  
+for **Persian Automatic Speech Recognition (ASR) or Speech-to-text** It was trained on the Common Voice 17.0 dataset and optimized for noisy environments.  
+
 
 ---
 
